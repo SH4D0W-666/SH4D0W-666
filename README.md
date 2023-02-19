@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/vKhKsyEFVK4IuEKzWY" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen style="position:relative; top: 10px; right: 100px" align="right"></iframe>
+<iframe src="https://giphy.com/embed/vKhKsyEFVK4IuEKzWY" width="90" height="90" frameBorder="0" class="giphy-embed" style="position:relative; top: 5px; right: 625px" align="right"></iframe>
 
 <h1 align="left">👋 Hello There!!</h1>
 
@@ -12,7 +12,7 @@
 
 <img align="right" src="Images/coder.gif?raw=true" width=40%>
 
-## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/CyberSec.gif" width=9%> About me
+## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/CyberSec.gif" width=4.3%> About me
 
 ###
 
@@ -109,7 +109,7 @@
 
 ###
 
-<img align="right" style="position:relative; right: 235px; bottom: 12px" src="Images/Statistics.gif" width=12%>
+<img align="right" style="position:relative; right: 726px; bottom: 33px" src="Images/Statistics.gif" width=9%>
 
 ## Github Stats
 <details><summary style="list-style:none"><h3>💻 GitHub Profile Stats</h3></summary>
@@ -192,13 +192,14 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /> -->
+  <h3> << !! Troubleshooting some issues !! >></h3>
 </div>
 
 ###

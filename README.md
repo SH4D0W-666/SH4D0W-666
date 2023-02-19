@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/vKhKsyEFVK4IuEKzWY" width="90" height="90" frameBorder="0" class="giphy-embed" style="position:relative; top: 5px; right: 625px" align="right"></iframe>
+<!-- <iframe src="https://giphy.com/embed/vKhKsyEFVK4IuEKzWY" width="90" height="90" frameBorder="0" class="giphy-embed" style="position:relative; top: 5px; right: 625px" align="right"></iframe> -->
 
 <h1 align="left">👋 Hello There!!</h1>
 
@@ -11,8 +11,10 @@
 ###
 
 <img align="right" src="Images/coder.gif?raw=true" width=40%>
+<!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/Coder.gif?raw=true) -->
 
 ## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/CyberSec.gif" width=4.3%> About me
+<!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/CyberSec.gif?raw=true) -->
 
 ###
 

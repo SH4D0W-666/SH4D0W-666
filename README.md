@@ -13,7 +13,7 @@
 <img align="right" src="Images/Coder.gif?raw=true" width=40%>
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/Coder.gif?raw=true) -->
 
-## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/Cybersec.gif" width=8.3%> About me
+## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/Cybersec.gif" width=4.3%> About me
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/CyberSec.gif?raw=true) -->
 
 ###

@@ -13,7 +13,7 @@
 <img align="right" src="Images/Coder.gif?raw=true" width=40%>
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/Coder.gif?raw=true) -->
 
-## <img align="left" style="position:relative; right: 5px; bottom: 8px; margin-right: -5px" src="Images/Cybersec.gif" width=4.3%> AAbout me
+## <img align="left" style="position:relative; right: 5px; bottom: 8px; margin-right: -25px" src="Images/Cybersec.gif" width=4.3%> AAbout me
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/CyberSec.gif?raw=true) -->
 
 ###
@@ -112,7 +112,7 @@
 
 ###
 
-## <img align="right" style="position:relative; right: 652px; bottom: 12px; margin-left: -20px;" src="Images/Statistics.gif" width=6%> Github Stats
+## <img align="right" style="position:relative; right: 652px; bottom: 12px; margin-left: -30px;" src="Images/Statistics.gif" width=6%> Github Stats
 
 <details><summary style="list-style:none"><h3>💻 GitHub Profile Stats</h3></summary>
 

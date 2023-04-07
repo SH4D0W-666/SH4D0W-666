@@ -10,16 +10,16 @@
 
 ###
 
-<img align="right" src="Images/coder.gif?raw=true" width=40%>
+<img align="right" src="Images/Coder.gif?raw=true" width=40%>
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/Coder.gif?raw=true) -->
 
-## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/CyberSec.gif" width=4.3%> About me
+## <img align="left" style="position:relative; right: 5px; bottom: 8px" src="Images/Cybersec.gif" width=8.3%> About me
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/CyberSec.gif?raw=true) -->
 
 ###
 
 - 📝 `"In a world of data, the one who can capitalize it, reigns supreme"`
-- :wink::sparkles: Creating ~~bugs~~ `features` since deployment
+<!-- - :wink::sparkles: Creating ~~bugs~~ `features` since deployment -->
 - :books::school: I'm currently pursuing my Bachelors in `Computer Engineering`
 - :1st_place_medal: `Smart India Hackathon 2022` Grand Finalist
 - 🎯 Aiming to debug the world's problems with a bug-free code
@@ -111,7 +111,7 @@
 
 ###
 
-<img align="right" style="position:relative; right: 726px; bottom: 33px" src="Images/Statistics.gif" width=9%>
+<img align="right" style="position:relative; right: 242px; bottom: 1px" src="Images/Statistics.gif" width=9%>
 
 ## Github Stats
 <details><summary style="list-style:none"><h3>💻 GitHub Profile Stats</h3></summary>
@@ -148,7 +148,7 @@
 	
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SH4D0W-666&layout=compact&theme=radical&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000&hide_border=true&column=4&margin-w=15&margin-h=15" alt="Shadow's Trophy Room"/></a></p>
 
-[![@SH4D0W-666's Holopin board](https://holopin.io/api/user/board?user=SH4D0W-666)]
+![@SH4D0W-666's Holopin board](https://holopin.io/api/user/board?user=sh4d0w)
 
 </details>
 	

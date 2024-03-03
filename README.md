@@ -6,32 +6,32 @@
 
 <p align="left">My name is Amithesh Gupta</p>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blueviolet&style=bevel&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/SH4D0W-666/README.md&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=SH4D0W-666&color=c0392b&base=10000&label=Profile%20Views&abbreviated=true)
 
 ###
 
 <img align="right" src="Images/Coder.gif?raw=true" width=40%>
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/Coder.gif?raw=true) -->
 
-## <img align="left" style="position:relative; right: 5px; bottom: 8px;" src="Images/Cybersec.gif" width=4.3%> AAbout me
+## <img align="left" style="position:relative; right: 5px; bottom: 8px;" src="Images/Cybersec.gif" width=5.3%> About Me
 <!-- ![Background](https://github.com/SH4D0W-666/SH4D0W-666/blob/master/Images/CyberSec.gif?raw=true) -->
 
 ###
 
 - 📝 `"In a world of data, the one who can capitalize it, reigns supreme"`
-<!-- - :wink::sparkles: Creating ~~bugs~~ `features` since deployment -->
-- :books::school: I'm currently pursuing my Bachelors in `Computer Engineering`
+- <img src="https://asset.brandfetch.io/idnq7H7qT0/ideifBVrAL.svg" height="10" width="40" alt="Oracle logo" />  Working at `Oracle Financial Services Software Ltd` 
+- :books: Graduated from Mumbai University in `Computer Engineering`
 - :1st_place_medal: `Smart India Hackathon 2022` Grand Finalist
 - 🎯 Aiming to debug the world's problems with a bug-free code
 - :telescope: Always on the cutting edge of technology
 - :man_technologist: Crashed `ChatGPT` again
 - 🌐 __My interest__ portfolio is diverse:
-    - 35% invested in `Marvel`,
-    - 20% in the `stock market`,
-    - 15% to learn `business` fundamentals,
-    - 15% in `coding` and development,
-    - 10% for exploring worlds in `video games` and 
-    - 5% in `reading` works of art.
+  - 35% invested in `Coding`,
+  - 20% in the `Stock Market`,
+  - 15% to learn `Business` fundamentals,
+  - 10% in `Marvel`,
+  - 10% for exploring worlds in `Video Games` and 
+  - 10% in `Reading` works of art.
 
 ## 
 ## Snake Eating Contributions
@@ -47,6 +47,9 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" width="52" alt="Java logo"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
@@ -75,6 +78,8 @@
 ###
 
 <div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" width="52" alt="kafka logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
@@ -89,8 +94,13 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+  height="40" width="52" alt="Oracle Database logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="52" alt="mongodb logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" width="33" alt="sqldev logo"/>
+
 </div>
 
 ###
@@ -112,18 +122,22 @@
 
 ###
 
-## <img align="right" style="position:relative; right: 652px; bottom: 12px;" src="Images/Statistics.gif" width=6%> Github Stats
+<div style="display:flex; align-items: center;">
+  <h2>GitHub Stats</h2>
+  <img src="Images/Statistics.gif" width="55" height="auto" style="margin-right: 10px;"> 
+</div>
 
 <details><summary style="list-style:none"><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
 <p align="center">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=SH4D0W-666&count_private=true&show_icons=true&theme=radical&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000&hide_border=true"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH4D0W-666&layout=compact&theme=radical&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000&hide_border=true&show_icons=true" alt="Top Langs" height="230px"/>
-<br/>
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=SH4D0W-666&count_private=true&show_icons=true&theme=blue-green"/>  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH4D0W-666&layout=compact&theme=chartreuse-dark&show_icons=true" alt="Top Langs" height="220px"/>
+<!-- <br/>
   <b>Note:</b> Top languages is only a metric of the languages comprised in my public repository and doesn't reflect overall experience or skill level.
-</br>
+</br> -->
 </p>
 </details>
 
@@ -131,14 +145,14 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SH4D0W-666&theme=radical&hide_rank=false&custom_title=Total%20Contributions" alt="Git Streak"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SH4D0W-666&theme=neon-dark&hide_rank=false&custom_title=Total%20Contributions" alt="Git Streak"/></p>
 
 </details>
 
 <details><summary style="list-style:none"><h3>🚀 Recent GitHub Activity</h3></summary>
 
 ----	
-![SH4D0W-666's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SH4D0W-666&theme=github)
+![SH4D0W-666's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SH4D0W-666&theme=chartreuse-dark)
 
 </details>
 
@@ -159,27 +173,27 @@
 <div>
   <p align="center">
     <a href="https://github.com/SH4D0W-666/Aryayogam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=Aryayogam&theme=tokyonight" alt="Aryayogam"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=Aryayogam&theme=blue-green" alt="Aryayogam"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/SH4D0W-666/SH4D0W-666">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=SH4D0W-666&theme=tokyonight" alt="Shadow's Profile"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=SH4D0W-666&theme=codeSTACKr" alt="Shadow's Profile"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/SH4D0W-666/UniversalBank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=UniversalBank&theme=tokyonight" alt="UniversalBank"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=UniversalBank&theme=chartreuse-dark" alt="UniversalBank"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/SH4D0W-666/Dare2Sort">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=Dare2Sort&theme=tokyonight" alt="Dare2Sort"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=Dare2Sort&theme=codeSTACKr" alt="Dare2Sort"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/SH4D0W-666/Booking-system-esd-proj">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=Booking-system-esd-proj&theme=tokyonight" alt="Booking-system-esd-proj"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SH4D0W-666&repo=Booking-system-esd-proj&theme=vision-friendly-dark" alt="Booking-system-esd-proj"/>
     </a>
   </p>
 </div>
@@ -192,16 +206,19 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo" />
   <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /> -->
-  <h3> << !! Troubleshooting some issues !! >></h3>
+          
+<h3><< !! Troubleshooting some issues !! >></h3>
 </div>
 
 ###

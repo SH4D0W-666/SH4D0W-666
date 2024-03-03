@@ -127,7 +127,10 @@
   <img src="Images/Statistics.gif" width="55" height="auto" style="margin-right: 10px;"> 
 </div>
 
-<details style="list-style: none;"><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details style="list-style: none;">
+  <summary style="list-style: none; -webkit-list-style: none;">
+    <h3>💻 GitHub Profile Stats</h3>
+  </summary>
 
 ----
 	
@@ -141,7 +144,7 @@
 </p>
 </details>
 
-<details style="list-style: none;"><summary style="list-style:none"><h3>🎮 Streak Stats</h3></summary>
+<details style="list-style: none;"><summary style="list-style: none; -webkit-list-style: none;"><h3>🎮 Streak Stats</h3></summary>
 
 ----	
 
@@ -149,14 +152,14 @@
 
 </details>
 
-<details><summary style="list-style:none"><h3>🚀 Recent GitHub Activity</h3></summary>
+<details style="list-style: none;"><summary style="list-style: none; -webkit-list-style: none;"><h3>🚀 Recent GitHub Activity</h3></summary>
 
 ----	
 ![SH4D0W-666's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SH4D0W-666&theme=chartreuse-dark)
 
 </details>
 
-<details><summary style="list-style:none"><h3>🏆 GitHub Achievements</h3></summary>
+<details style="list-style: none;"><summary style="list-style: none; -webkit-list-style: none;"><h3>🏆 GitHub Achievements</h3></summary>
 
 ----
 	
@@ -166,7 +169,7 @@
 
 </details>
 	
-<details><summary style="list-style:none"><h3>📁 My Repositories </h3></summary>
+<details style="list-style: none;"><summary style="list-style: none; -webkit-list-style: none;"><h3>📁 My Repositories </h3></summary>
 
 ----
 	

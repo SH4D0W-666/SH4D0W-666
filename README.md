@@ -127,7 +127,7 @@
   <img src="Images/Statistics.gif" width="55" height="auto" style="margin-right: 10px;"> 
 </div>
 
-<details><summary style="list-style:none"><h3>💻 GitHub Profile Stats</h3></summary>
+<details style="list-style: none;"><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
@@ -141,7 +141,7 @@
 </p>
 </details>
 
-<details><summary style="list-style:none"><h3>🎮 Streak Stats</h3></summary>
+<details style="list-style: none;"><summary style="list-style:none"><h3>🎮 Streak Stats</h3></summary>
 
 ----	
 
